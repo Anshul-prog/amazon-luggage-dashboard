@@ -1,0 +1,79 @@
+product_id,brand,title,size,material,colour,list_price,sell_price,discount_pct,avg_rating,review_count,market_position,asin
+P0001,Safari,"Safari Polycarbonate Cabin (20"") Trolley Bag - Teal","Cabin (20"")",Polycarbonate,Teal,4505,2840.0,37,4.0,69,Value-Premium,B00Y6DPBHS
+P0002,Safari,Safari Polycarbonate Set of 3 Trolley Bag - Olive Green,Set of 3,Polycarbonate,Olive Green,6406,4480.0,30,4.3,95,Value-Premium,B0M148P0TV
+P0003,Safari,"Safari Polyester Large (28"") Trolley Bag - Navy Blue","Large (28"")",Polyester,Navy Blue,2929,1930.0,34,4.0,70,Value-Premium,B01BCPPVOH
+P0004,Safari,"Safari Polyester Medium (24"") Trolley Bag - Maroon","Medium (24"")",Polyester,Maroon,8513,5020.0,41,3.8,77,Value-Premium,B0ENULQJID
+P0005,Safari,Safari Polycarbonate Set of 2 Trolley Bag - Teal,Set of 2,Polycarbonate,Teal,3829,2410.0,37,4.2,83,Value-Premium,B04O6L1F90
+P0006,Safari,Safari ABS Set of 3 Trolley Bag - Olive Green,Set of 3,ABS,Olive Green,6529,4510.0,31,4.3,69,Value-Premium,B0ZD76SZN9
+P0007,Safari,"Safari Polyester Medium (24"") Trolley Bag - Grey","Medium (24"")",Polyester,Grey,8121,4470.0,45,4.4,94,Value-Premium,B07MKGXUKQ
+P0008,Safari,"Safari Nylon Large (28"") Trolley Bag - Purple","Large (28"")",Nylon,Purple,7448,5210.0,30,4.0,81,Value-Premium,B05PISKFFV
+P0009,Safari,Safari ABS Set of 3 Trolley Bag - Navy Blue,Set of 3,ABS,Navy Blue,6850,4520.0,34,4.2,79,Value-Premium,B0KJNAWNGA
+P0010,Safari,"Safari Polycarbonate Large (28"") Trolley Bag - Red","Large (28"")",Polycarbonate,Red,4796,3360.0,30,3.9,75,Value-Premium,B09W4UOV51
+P0011,Safari,Safari Polyester Set of 2 Trolley Bag - Navy Blue,Set of 2,Polyester,Navy Blue,8103,5350.0,34,4.1,75,Value-Premium,B0421VMEFO
+P0012,Safari,"Safari Polycarbonate Large (28"") Trolley Bag - Purple","Large (28"")",Polycarbonate,Purple,3402,1840.0,46,3.8,69,Value-Premium,B0RNKZCRNQ
+P0013,Safari,"Safari Nylon Cabin (20"") Trolley Bag - Teal","Cabin (20"")",Nylon,Teal,3838,2150.0,44,4.3,78,Value-Premium,B0E6RP9UQE
+P0014,Safari,"Safari Polycarbonate Cabin (20"") Trolley Bag - Grey","Cabin (20"")",Polycarbonate,Grey,4461,2810.0,37,4.3,80,Value-Premium,B0SS8JLTCB
+P0015,Safari,"Safari ABS Cabin (20"") Trolley Bag - Purple","Cabin (20"")",ABS,Purple,3647,2010.0,45,4.2,91,Value-Premium,B0KF4VGE0G
+P0016,Skybags,"Skybags Polycarbonate Medium (24"") Trolley Bag - Teal","Medium (24"")",Polycarbonate,Teal,3019,1900.0,37,4.2,106,Value,B0TCXNMJ5I
+P0017,Skybags,"Skybags Polycarbonate Medium (24"") Trolley Bag - Olive Green","Medium (24"")",Polycarbonate,Olive Green,5547,3330.0,40,4.2,97,Value,B0LL9RZRKB
+P0018,Skybags,"Skybags Nylon Cabin (20"") Trolley Bag - Red","Cabin (20"")",Nylon,Red,5299,3500.0,34,4.0,99,Value,B035QBB3XM
+P0019,Skybags,Skybags Polyester Set of 2 Trolley Bag - Navy Blue,Set of 2,Polyester,Navy Blue,4846,2620.0,46,3.9,107,Value,B0E545VYBJ
+P0020,Skybags,"Skybags Nylon Large (28"") Trolley Bag - Grey","Large (28"")",Nylon,Grey,5308,2710.0,49,3.9,109,Value,B0Q3Q7GKTM
+P0021,Skybags,Skybags Nylon Set of 2 Trolley Bag - Olive Green,Set of 2,Nylon,Olive Green,2343,1480.0,37,3.8,103,Value,B04XDD8IUZ
+P0022,Skybags,"Skybags Nylon Medium (24"") Trolley Bag - Red","Medium (24"")",Nylon,Red,5842,3330.0,43,4.3,108,Value,B0Y5CGAGHF
+P0023,Skybags,Skybags ABS Set of 3 Trolley Bag - Teal,Set of 3,ABS,Teal,3555,1960.0,45,3.9,107,Value,B0TL2UG05W
+P0024,Skybags,"Skybags Polyester Cabin (20"") Trolley Bag - Navy Blue","Cabin (20"")",Polyester,Navy Blue,6080,3470.0,43,4.2,108,Value,B0KA9LZ57V
+P0025,Skybags,Skybags Polyester Set of 3 Trolley Bag - Grey,Set of 3,Polyester,Grey,3433,2060.0,40,4.2,88,Value,B0G23KF8OU
+P0026,Skybags,Skybags Nylon Set of 2 Trolley Bag - Grey,Set of 2,Nylon,Grey,2836,1530.0,46,4.0,86,Value,B0TGPEQCYH
+P0027,Skybags,"Skybags Nylon Cabin (20"") Trolley Bag - Purple","Cabin (20"")",Nylon,Purple,2534,1270.0,50,3.7,89,Value,B0ZVUTBT6A
+P0028,Skybags,"Skybags ABS Cabin (20"") Trolley Bag - Navy Blue","Cabin (20"")",ABS,Navy Blue,2289,1330.0,42,3.9,95,Value,B0BMUVHGQK
+P0029,Skybags,Skybags Polyester Set of 3 Trolley Bag - Grey,Set of 3,Polyester,Grey,6698,4220.0,37,4.3,109,Value,B071TWD96H
+P0030,American Tourister,"American Tourister Polycarbonate Large (28"") Trolley Bag - Olive Green","Large (28"")",Polycarbonate,Olive Green,6117,4100.0,33,4.6,74,Premium,B0XEF73GGA
+P0031,American Tourister,American Tourister Polyester Set of 3 Trolley Bag - Red,Set of 3,Polyester,Red,12491,8740.0,30,4.3,91,Premium,B0VGC0QTXX
+P0032,American Tourister,"American Tourister Polyester Large (28"") Trolley Bag - Black","Large (28"")",Polyester,Black,8698,5310.0,39,4.3,68,Premium,B05CVHJOBE
+P0033,American Tourister,American Tourister ABS Set of 3 Trolley Bag - Purple,Set of 3,ABS,Purple,7276,4370.0,40,4.2,88,Premium,B0D6VQ81LY
+P0034,American Tourister,"American Tourister Nylon Cabin (20"") Trolley Bag - Purple","Cabin (20"")",Nylon,Purple,14560,8590.0,41,4.5,86,Premium,B0H3Q26TE0
+P0035,American Tourister,"American Tourister Polyester Large (28"") Trolley Bag - Teal","Large (28"")",Polyester,Teal,11867,8540.0,28,4.6,92,Premium,B0T6176C1K
+P0036,American Tourister,"American Tourister Polyester Cabin (20"") Trolley Bag - Navy Blue","Cabin (20"")",Polyester,Navy Blue,12676,9000.0,29,4.5,79,Premium,B0TF2533UO
+P0037,American Tourister,"American Tourister Nylon Medium (24"") Trolley Bag - Purple","Medium (24"")",Nylon,Purple,14429,8370.0,42,4.1,85,Premium,B063JUWMW3
+P0038,American Tourister,American Tourister ABS Set of 2 Trolley Bag - Navy Blue,Set of 2,ABS,Navy Blue,11951,7650.0,36,4.4,95,Premium,B0FEEKOT16
+P0039,American Tourister,"American Tourister Polycarbonate Medium (24"") Trolley Bag - Navy Blue","Medium (24"")",Polycarbonate,Navy Blue,4952,3570.0,28,4.5,88,Premium,B0BB3VCPEA
+P0040,American Tourister,"American Tourister Nylon Large (28"") Trolley Bag - Olive Green","Large (28"")",Nylon,Olive Green,11898,8090.0,32,4.3,66,Premium,B0BMCZDBRA
+P0041,American Tourister,"American Tourister Polyester Medium (24"") Trolley Bag - Black","Medium (24"")",Polyester,Black,13462,8350.0,38,4.2,70,Premium,B094W739V5
+P0042,American Tourister,American Tourister ABS Set of 3 Trolley Bag - Red,Set of 3,ABS,Red,14880,9670.0,35,4.1,69,Premium,B02ETPSEYW
+P0043,VIP,VIP ABS Set of 3 Trolley Bag - Purple,Set of 3,ABS,Purple,9989,5890.0,41,3.7,56,Value-Premium,B0ZOEAVNAQ
+P0044,VIP,VIP Polyester Set of 2 Trolley Bag - Teal,Set of 2,Polyester,Teal,8875,4700.0,47,4.1,58,Value-Premium,B03DB8UO5N
+P0045,VIP,"VIP ABS Medium (24"") Trolley Bag - Grey","Medium (24"")",ABS,Grey,5002,2600.0,48,4.3,68,Value-Premium,B0J2FUW48X
+P0046,VIP,"VIP Nylon Cabin (20"") Trolley Bag - Navy Blue","Cabin (20"")",Nylon,Navy Blue,2499,1500.0,40,3.7,59,Value-Premium,B0725U0332
+P0047,VIP,VIP Polycarbonate Set of 3 Trolley Bag - Red,Set of 3,Polycarbonate,Red,9854,5620.0,43,3.9,63,Value-Premium,B0DFZJOIGO
+P0048,VIP,VIP Polyester Set of 3 Trolley Bag - Black,Set of 3,Polyester,Black,8263,5210.0,37,4.0,52,Value-Premium,B0D9E32LFI
+P0049,VIP,VIP Nylon Set of 2 Trolley Bag - Purple,Set of 2,Nylon,Purple,5406,3510.0,35,4.1,68,Value-Premium,B0YN74LRD2
+P0050,VIP,VIP ABS Set of 2 Trolley Bag - Black,Set of 2,ABS,Black,6500,4160.0,36,3.9,54,Value-Premium,B08G0YI0DG
+P0051,VIP,"VIP Polyester Medium (24"") Trolley Bag - Teal","Medium (24"")",Polyester,Teal,4634,2600.0,44,4.3,58,Value-Premium,B0UK491RZ8
+P0052,VIP,"VIP ABS Medium (24"") Trolley Bag - Maroon","Medium (24"")",ABS,Maroon,8231,5430.0,34,3.7,73,Value-Premium,B00IML4NFL
+P0053,Aristocrat,"Aristocrat Polyester Large (28"") Trolley Bag - Grey","Large (28"")",Polyester,Grey,2491,1370.0,45,4.0,74,Budget,B0Z2KB67RI
+P0054,Aristocrat,"Aristocrat Nylon Medium (24"") Trolley Bag - Maroon","Medium (24"")",Nylon,Maroon,5830,3260.0,44,3.8,72,Budget,B0TWPHKOKP
+P0055,Aristocrat,"Aristocrat Polyester Large (28"") Trolley Bag - Red","Large (28"")",Polyester,Red,4147,2110.0,49,3.9,61,Budget,B0QD7J3H2W
+P0056,Aristocrat,Aristocrat ABS Set of 2 Trolley Bag - Navy Blue,Set of 2,ABS,Navy Blue,2460,1300.0,47,3.6,58,Budget,B0X1VOP8QW
+P0057,Aristocrat,"Aristocrat Polycarbonate Large (28"") Trolley Bag - Purple","Large (28"")",Polycarbonate,Purple,5586,3300.0,41,3.6,47,Budget,B0BXGKYA3Z
+P0058,Aristocrat,"Aristocrat Polyester Large (28"") Trolley Bag - Grey","Large (28"")",Polyester,Grey,3528,2050.0,42,3.9,59,Budget,B0CUJ7ILPQ
+P0059,Aristocrat,"Aristocrat Polycarbonate Large (28"") Trolley Bag - Black","Large (28"")",Polycarbonate,Black,1696,1000.0,41,3.7,57,Budget,B0APFJ6W8Z
+P0060,Aristocrat,Aristocrat Polyester Set of 2 Trolley Bag - Teal,Set of 2,Polyester,Teal,3858,2280.0,41,4.1,50,Budget,B0ACZNB6G3
+P0061,Aristocrat,Aristocrat ABS Set of 2 Trolley Bag - Grey,Set of 2,ABS,Grey,3104,1680.0,46,3.7,71,Budget,B0NX8Y4T71
+P0062,Aristocrat,"Aristocrat Polyester Cabin (20"") Trolley Bag - Red","Cabin (20"")",Polyester,Red,5958,3280.0,45,3.7,61,Budget,B0URIZR98W
+P0063,Aristocrat,Aristocrat Polycarbonate Set of 3 Trolley Bag - Purple,Set of 3,Polycarbonate,Purple,2295,1170.0,49,3.9,46,Budget,B09H32ISNK
+P0064,Aristocrat,"Aristocrat ABS Medium (24"") Trolley Bag - Teal","Medium (24"")",ABS,Teal,5889,3420.0,42,3.8,67,Budget,B0Q59H2E02
+P0065,Aristocrat,"Aristocrat Polyester Large (28"") Trolley Bag - Olive Green","Large (28"")",Polyester,Olive Green,3259,1830.0,44,3.9,72,Budget,B0HTFK8MKL
+P0066,Aristocrat,"Aristocrat Nylon Cabin (20"") Trolley Bag - Navy Blue","Cabin (20"")",Nylon,Navy Blue,4770,2530.0,47,3.8,61,Budget,B0QII1EJ4P
+P0067,Nasher Miles,Nasher Miles Polyester Set of 3 Trolley Bag - Maroon,Set of 3,Polyester,Maroon,4225,3080.0,27,4.2,57,Premium-Value,B0AUAI0JPP
+P0068,Nasher Miles,"Nasher Miles Nylon Large (28"") Trolley Bag - Olive Green","Large (28"")",Nylon,Olive Green,7390,4800.0,35,4.3,68,Premium-Value,B0Y7GNJZ2H
+P0069,Nasher Miles,Nasher Miles Nylon Set of 2 Trolley Bag - Purple,Set of 2,Nylon,Purple,9083,6090.0,33,4.2,63,Premium-Value,B0M201LDA7
+P0070,Nasher Miles,"Nasher Miles ABS Cabin (20"") Trolley Bag - Black","Cabin (20"")",ABS,Black,3851,2620.0,32,4.0,72,Premium-Value,B02XG2RW97
+P0071,Nasher Miles,"Nasher Miles ABS Large (28"") Trolley Bag - Purple","Large (28"")",ABS,Purple,6453,4130.0,36,4.0,63,Premium-Value,B0MFSWPY6E
+P0072,Nasher Miles,"Nasher Miles ABS Cabin (20"") Trolley Bag - Maroon","Cabin (20"")",ABS,Maroon,3298,2510.0,24,4.2,56,Premium-Value,B0NKWB3WWT
+P0073,Nasher Miles,"Nasher Miles Polyester Large (28"") Trolley Bag - Teal","Large (28"")",Polyester,Teal,4496,3100.0,31,4.1,73,Premium-Value,B090W710RW
+P0074,Nasher Miles,"Nasher Miles Nylon Cabin (20"") Trolley Bag - Maroon","Cabin (20"")",Nylon,Maroon,9351,6920.0,26,4.4,53,Premium-Value,B0RV8JHE9F
+P0075,Nasher Miles,Nasher Miles ABS Set of 3 Trolley Bag - Red,Set of 3,ABS,Red,9548,7070.0,26,4.0,68,Premium-Value,B0VD2ML0LR
+P0076,Nasher Miles,Nasher Miles Polyester Set of 2 Trolley Bag - Maroon,Set of 2,Polyester,Maroon,8341,5170.0,38,4.4,46,Premium-Value,B09KSWKRYF
+P0077,Nasher Miles,Nasher Miles ABS Set of 2 Trolley Bag - Black,Set of 2,ABS,Black,5453,3760.0,31,4.5,45,Premium-Value,B0RD4MWPMI
+P0078,Nasher Miles,"Nasher Miles Polyester Cabin (20"") Trolley Bag - Navy Blue","Cabin (20"")",Polyester,Navy Blue,6825,4710.0,31,4.4,51,Premium-Value,B0AQS4FUSN
